@@ -5,7 +5,6 @@
 [![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat&logo=hackthebox&logoColor=green)](https://www.hackthebox.com/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Klis-hashed&style=flat&color=blue)](https://github.com/Klis-hashed)
 [![GitHub User's stars](https://img.shields.io/github/stars/Klis-hashed?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow)](https://github.com/Klis-hashed?tab=repositories)
-[![wakatime](https://wakatime.com/badge/user/your-username/project-name.svg)](https://wakatime.com/@your-username) <!-- Optional: Replace with real Wakatime ID if you use it -->
 [![Readme Card](https://img.shields.io/badge/-Check%20my%20repos-24292e?style=flat&logo=github&logoColor=white)](https://github.com/Klis-hashed?tab=repositories)
 
 ---
