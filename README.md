@@ -8,5 +8,5 @@
 [![Readme Card](https://img.shields.io/badge/-Check%20my%20repos-24292e?style=flat&logo=github&logoColor=white)](https://github.com/Klis-hashed?tab=repositories)
 
 # Malware analyst.
-# Working with code.
+# Working with code and certain analysis tools.
 # @klis-hashed
