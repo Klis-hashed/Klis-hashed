@@ -7,6 +7,7 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/Klis-hashed?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=yellow)](https://github.com/Klis-hashed?tab=repositories)
 [![Readme Card](https://img.shields.io/badge/-Check%20my%20repos-24292e?style=flat&logo=github&logoColor=white)](https://github.com/Klis-hashed?tab=repositories)
 
-# Malware analyst.
+# Malware analyst. CyberSecurity.
+# Debian User
 # Working with code and certain analysis tools.
 # @klis-hashed
